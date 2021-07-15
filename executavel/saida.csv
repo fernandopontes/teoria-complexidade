@@ -1,0 +1,4 @@
+date_time,algorithm,number_qty,quality,time,memory
+2021-07-15 16:25:04.586642,selectionsort,'100\n',melhor,0.0009975433349609375 segundos,16.03515625 MB
+2021-07-15 16:25:04.586642,selectionsort,'100\n',médio,0.0010004043579101562 segundos,16.04296875 MB
+2021-07-15 16:25:04.586642,selectionsort,'100\n',pior,0.0010001659393310547 segundos,16.04296875 MB
